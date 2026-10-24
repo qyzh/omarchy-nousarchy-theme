@@ -6,6 +6,8 @@ Light theme for [Omarchy](https://omarchy.org).
   <img src="preview.png" alt="nousarchy desktop preview" width="100%" />
 </p>
 
+<p align="center"><sub>Bar: <a href="https://github.com/HANCORE-linux/Shibumi-Shell">Shibumi</a> · File manager: <a href="https://github.com/lgse/strata">Strata</a></sub></p>
+
 ## Contents
 
 | File | Purpose |
